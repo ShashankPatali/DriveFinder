@@ -10,7 +10,7 @@ A simple interactive website to help first time buyers and newbies find their ne
 
 
 # Huggingface Space Link
-[![Alt text]("test123)]([https://www.youtube.com/watch?v=xwiYUISIZKw](https://huggingface.co/spaces/Interceptor/DriveFinder))
+[Try the Project!](https://huggingface.co/spaces/Interceptor/DriveFinder)
 
 
 # Future updates planned
