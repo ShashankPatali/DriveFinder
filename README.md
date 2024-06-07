@@ -7,6 +7,11 @@ A simple interactive website to help first time buyers and newbies find their ne
 *Search location and market is changed according to the currency entered. If cost entered in USD, the North American Market is searched. If cost entered in INR, the indian market is searched.
 *Ability to upload a picture for users who want to identify a car that they want based on a drawing or a blurry picture.
 *All relevant points of suggested cars displayed along with advantages and disadvantages.
+- Supports various social media platforms: Instagram, Facebook, Twitter, LinkedIn, and Pinterest.
+- Provides guidelines tailored to each social media platform.
+- Allows specifying the number of captions/posts generated.
+- Generates captions/posts based on the provided context and uploaded image.
+
 
 # Huggingface Space Link
 https://huggingface.co/spaces/Interceptor/DriveFinder
